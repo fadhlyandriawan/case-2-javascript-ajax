@@ -12,6 +12,6 @@ Selain itu, di dalam jendela chat yang ditampilkan, memungkinkan pengguna untuk 
 
 Kami dari Kelompok 10 dengan nama anggota Kelompok :
 
-Fadhly Andriawan Kairupan_225150407111031
-Keith Evangel Samuel_225150407111100
-Natanael Isaac Pardamean Pardede_225150401111036
+1. Fadhly Andriawan Kairupan_225150407111031
+2. Keith Evangel Samuel_225150407111100
+3. Natanael Isaac Pardamean Pardede_225150401111036
